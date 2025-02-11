@@ -1,0 +1,14 @@
+aiofiles
+asyncpg
+fastapi
+httpx
+Jinja2
+openai
+pytest
+pytest-asyncio
+python-dotenv
+python-multipart
+sqladmin
+SQLAlchemy[asyncio]
+tortoise-orm
+uvicorn[standard]
